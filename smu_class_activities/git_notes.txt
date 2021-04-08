@@ -1,0 +1,9 @@
+cd is for change directory
+pwd - print working directory
+mkdir - make a directory
+code - open in vs code
+echo - write into a file
+touch - create a directory/folder
+cat - output to console
+clear - clear console
+grep - grab a text within
